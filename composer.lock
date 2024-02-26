@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fecd5b7c364cb3a0f3a832004f594101",
+    "content-hash": "8532869cb2683b65d0fec9ddf0b2396f",
     "packages": [
         {
             "name": "adhocore/json-comment",
@@ -563,16 +563,16 @@
         },
         {
             "name": "pocketmine/netresearch-jsonmapper",
-            "version": "v4.2.1000",
+            "version": "v4.4.999",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pmmp/netresearch-jsonmapper.git",
-                "reference": "078764e869e9b732f97206ec9363480a77c35532"
+                "reference": "9a6610033d56e358e86a3e4fd5f87063c7318833"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pmmp/netresearch-jsonmapper/zipball/078764e869e9b732f97206ec9363480a77c35532",
-                "reference": "078764e869e9b732f97206ec9363480a77c35532",
+                "url": "https://api.github.com/repos/pmmp/netresearch-jsonmapper/zipball/9a6610033d56e358e86a3e4fd5f87063c7318833",
+                "reference": "9a6610033d56e358e86a3e4fd5f87063c7318833",
                 "shasum": ""
             },
             "require": {
@@ -586,7 +586,7 @@
                 "netresearch/jsonmapper": "~4.2.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "~7.5 || ~8.0 || ~9.0",
+                "phpunit/phpunit": "~7.5 || ~8.0 || ~9.0 || ~10.0",
                 "squizlabs/php_codesniffer": "~3.5"
             },
             "type": "library",
@@ -611,9 +611,9 @@
             "support": {
                 "email": "cweiske@cweiske.de",
                 "issues": "https://github.com/cweiske/jsonmapper/issues",
-                "source": "https://github.com/pmmp/netresearch-jsonmapper/tree/v4.2.1000"
+                "source": "https://github.com/pmmp/netresearch-jsonmapper/tree/v4.4.999"
             },
-            "time": "2023-07-14T10:44:14+00:00"
+            "time": "2024-02-23T13:17:01+00:00"
         },
         {
             "name": "pocketmine/raklib",
